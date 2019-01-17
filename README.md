@@ -16,6 +16,4 @@
 	- Время работы устройства (аптайм)
 	- Напряжение питания устройства
 
-Все описание о шаблоне мониторинга размещено тут: https://www.ionline.by/administrirovanie/sistemy-monitoringa/zabbix/shablon-zabbix-dlya-monitoringa-ustrojstv-mikrotik-po-snmp-20-01-2015/	
-	
-![PROJECT_PHOTO] (https://static.ionline.by/2015/01/community-zabbix.png)
+Все описание о шаблоне мониторинга размещено тут: https://www.ionline.by/administrirovanie/sistemy-monitoringa/zabbix/shablon-zabbix-dlya-monitoringa-ustrojstv-mikrotik-po-snmp-20-01-2015/
